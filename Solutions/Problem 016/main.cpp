@@ -1,15 +1,10 @@
 
 /*
-	Title:
-		Power digit sum
+	This is my solution to Problem 16 of Project Euler
+	Link to problem: https://projecteuler.net/problem=16
 
-	Description:
-		2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
-
-		What is the sum of the digits of the number 2^1000?
-
-	Date:
-		04-05-2020
+	Author: Hubert Fraszczyk
+	Date: 04-05-2020
 */
 
 

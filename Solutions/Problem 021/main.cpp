@@ -1,6 +1,6 @@
 
 /*
-	This is a solution to Problem 21 of Project Euler
+	This is my solution to Problem 21 of Project Euler
 	Link to problem: https://projecteuler.net/problem=21
 
 	Author: Hubert Fraszczyk
